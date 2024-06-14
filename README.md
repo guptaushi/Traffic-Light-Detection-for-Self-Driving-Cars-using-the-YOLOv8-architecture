@@ -1,6 +1,6 @@
 # Traffic-Light-Detection-for-Self-Driving-Cars-using-the-YOLOv8-architecture
 Overview
-This repository contains the code and documentation for our project on traffic light detection for self-driving cars using the YOLOv8 architecture. This project is a collaboration between Ayushi Gupta, Aditya Gupta, and Gaurav Raj from the Department of CSE at Sharda University, Greater Noida, India.
+This repository contains the code and documentation for our project on traffic light detection for self-driving cars using the YOLOv8 architecture. 
 
 Abstract
 Traffic light violations are a significant cause of traffic accidents, and developing reliable and efficient traffic light detection systems is crucial for autonomous vehicle safety. This study evaluates the performance of YOLOv8, a state-of-the-art object detection model, against other YOLO models (YOLOv3 and YOLOv7) using a dataset of 100,000 images captured in various weather and lighting conditions. Our goal is to create a data-driven system that achieves high detection accuracy and performance during both training and real-time detection. This study is the first to comprehensively evaluate YOLOv8 for traffic light detection in autonomous vehicles.
